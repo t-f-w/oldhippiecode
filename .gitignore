@@ -6,10 +6,3 @@
 /config/*
 
 #Ignore compiled files and other files generated during compilation.
-*.dmb
-*.rsc
-*.lk
-*.int
-*.backup
-*.int
-*.db
