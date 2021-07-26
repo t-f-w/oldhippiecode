@@ -1,0 +1,222 @@
+
+
+Starting up. 14:42.20
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[14:42:20]ADMIN: Loading Banlistjob
+[14:42:20]ADMIN: Banlistjob is empty.
+[14:42:20]ADMIN: Banlistjob missing base dir.
+Database connection failed. Reverting to the legacy ban system.
+[14:42:20]ADMIN: Loading jobban_rank
+[14:42:20]ADMIN: jobban_keylist was empty
+[14:42:20]ADMIN: Loading appearance_rank
+[14:42:20]ADMIN: appearance_keylist was empty
+[14:42:20]ADMIN: Updating jobbanfile!
+[14:42:20]ADMIN: Loading Banlist
+[14:42:20]ADMIN: Banlist is empty.
+[14:42:20]ADMIN: Banlist missing base dir.
+[14:42:41]GAME: TEMPL: Picking 2 template(s).
+[14:42:41]GAME: TEMPL: Picked template: podcrash_9x9.dmm
+[14:42:41]GAME: TEMPL: Picked template: asteroid_5x5.dmm
+[14:42:43]GAME: Finished placing templates after 00:01
+
+
+Starting up. 17:16.23
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[17:16:24]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[17:16:24]ADMIN: Loading jobban_rank
+[17:16:24]ADMIN: jobban_keylist was empty
+[17:16:24]ADMIN: Loading appearance_rank
+[17:16:24]ADMIN: appearance_keylist was empty
+[17:16:24]ADMIN: Updating jobbanfile!
+[17:16:24]ADMIN: Loading Banlist
+[17:16:44]GAME: TEMPL: Picking 1 template(s).
+[17:16:44]GAME: TEMPL: Picked template: cloonshuttle.dmm
+[17:16:45]GAME: Finished placing templates after 00:01
+
+
+Starting up. 17:17.59
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[17:18:00]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[17:18:00]ADMIN: Loading jobban_rank
+[17:18:00]ADMIN: jobban_keylist was empty
+[17:18:00]ADMIN: Loading appearance_rank
+[17:18:00]ADMIN: appearance_keylist was empty
+[17:18:00]ADMIN: Updating jobbanfile!
+[17:18:00]ADMIN: Loading Banlist
+[17:18:19]GAME: TEMPL: Picking 2 template(s).
+[17:18:19]GAME: TEMPL: Picked template: asteroid_16x17.dmm
+[17:18:19]GAME: TEMPL: Picked template: spacewatchoutpost.dmm
+[17:18:21]GAME: Finished placing templates after 00:01
+[17:18:44]ACCESS: Login: Chris poop/(Chris poop) from 127.0.0.1-3868814978 || BYOND v512
+[17:22:36]GAME: Chris poop (ckey) has been selected as a traitor
+[17:22:36]ACCESS: Logout: *no key*/(Chris poop)
+[17:22:36]ACCESS: Login: Chris poop/(Franklin Wilo) from 127.0.0.1-3868814978 || BYOND v512
+[17:22:37]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[17:22:47]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the folder.
+[17:23:05]SAY: mouse/ : SQUEEK!
+[17:23:10]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:23:12]EMOTE: Poly/ : <B>Poly</B> flutters its wings.
+[17:23:20]EMOTE: fuzz/ : <B>The fuzz</B> bats the toy mouse around with its paw!
+[17:23:51]EMOTE: Ian/ : <B>Ian</B> dances around.
+[17:23:55]EMOTE: kitten/ : <B>The kitten</B> meows
+[17:23:58]SAY: Franklin Wilo/Chris poop : &#39;;HELP DORMS
+[17:23:59]EMOTE: monkey (758)/ : <B>The monkey (758)</B> jumps!
+[17:24:01]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[17:24:07]SAY: Runtime/ : Esp!
+[17:24:09]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[17:24:22]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[17:24:30]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[17:24:30]SAY: fuzz/ : Esp!
+[17:24:36]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[17:24:46]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[17:24:58]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[17:25:04]SAY: mouse/ : Squeek?
+[17:25:04]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[17:25:06]EMOTE: monkey (23)/ : <B>The monkey (23)</B> jumps!
+[17:25:10]SAY: mouse/ : Squeek?
+[17:25:14]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[17:25:24]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[17:25:24]EMOTE: monkey (336)/ : <B>The monkey (336)</B> jumps!
+[17:25:25]EMOTE: kitten/ : <B>The kitten</B> mews
+[17:25:37]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[17:25:43]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[17:25:45]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[17:25:55]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[17:26:20]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[17:26:28]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[17:26:28]SAY: kitten/ : Purr!
+[17:26:30]EMOTE: Pete/ : <B>Pete</B> shakes its head.
+[17:26:46]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[17:26:48]EMOTE: monkey (93)/ : <B>The monkey (93)</B> jumps!
+[17:26:52]SAY: mouse/ : SQUEEK!
+[17:27:11]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[17:27:15]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[17:27:17]EMOTE: fuzz/ : <B>The fuzz</B> meows
+[17:27:29]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[17:27:30]ACCESS: Logout: Chris poop[DC]/(Franklin Wilo)
+
+
+Starting up. 17:29.00
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[17:29:00]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[17:29:00]ADMIN: Loading jobban_rank
+[17:29:00]ADMIN: jobban_keylist was empty
+[17:29:00]ADMIN: Loading appearance_rank
+[17:29:00]ADMIN: appearance_keylist was empty
+[17:29:00]ADMIN: Updating jobbanfile!
+[17:29:00]ADMIN: Loading Banlist
+[17:29:21]GAME: TEMPL: Picking 2 template(s).
+[17:29:21]GAME: TEMPL: Picked template: spacewatchoutpost.dmm
+[17:29:21]GAME: TEMPL: Picked template: abandoned_abductor_ship_7x7.dmm
+[17:29:22]GAME: Finished placing templates after 00:01
