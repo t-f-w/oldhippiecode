@@ -1,0 +1,492 @@
+
+
+Starting up. 21:28.25
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[21:28:25]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[21:28:25]ADMIN: Loading jobban_rank
+[21:28:25]ADMIN: jobban_keylist was empty
+[21:28:25]ADMIN: Loading appearance_rank
+[21:28:25]ADMIN: appearance_keylist was empty
+[21:28:25]ADMIN: Updating jobbanfile!
+[21:28:25]ADMIN: Loading Banlist
+[21:28:32]GAME: TEMPL: Picking 2 template(s).
+[21:28:32]GAME: TEMPL: Picked template: asteroid.dmm
+[21:28:32]GAME: TEMPL: Picked template: abandonedlabshuttle.dmm
+[21:28:32]GAME: Finished placing templates after 00:00
+[21:28:44]ACCESS: Login: Guest-1192090613/(Guest-1192090613) from 127.0.0.1-1192090613 || BYOND v514
+[21:29:52]ACCESS: Logout: Guest-1192090613[DC]/(Guest-1192090613)
+
+
+Starting up. 21:30.39
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[21:30:39]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[21:30:39]ADMIN: Loading jobban_rank
+[21:30:39]ADMIN: jobban_keylist was empty
+[21:30:39]ADMIN: Loading appearance_rank
+[21:30:39]ADMIN: appearance_keylist was empty
+[21:30:39]ADMIN: Updating jobbanfile!
+[21:30:39]ADMIN: Loading Banlist
+[21:30:45]GAME: TEMPL: Picking 2 template(s).
+[21:30:45]GAME: TEMPL: Picked template: Originalcloonship_17x22.dmm
+[21:30:45]GAME: TEMPL: Picked template: cloonshuttle.dmm
+[21:30:46]GAME: Finished placing templates after 00:00
+[21:30:48]ACCESS: Login: Guest-1192090613/(Guest-1192090613) from 127.0.0.1-1192090613 || BYOND v514
+[21:32:58]ACCESS: Logout: Guest-1192090613[DC]/(Guest-1192090613)
+[21:36:44]ACCESS: Login: Tfw/(Tfw) from 127.0.0.1-1192090613 || BYOND v514
+[21:37:49]GAME: Tfw (ckey) has been selected as a traitor
+[21:37:49]ACCESS: Logout: *no key*/(Tfw)
+[21:37:49]ACCESS: Login: Tfw/(Jessica Hawker) from 127.0.0.1-1192090613 || BYOND v514
+[21:37:52]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:38:06]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[21:38:22]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[21:38:26]EMOTE: monkey (335)/ : <B>The monkey (335)</B> jumps!
+[21:38:28]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[21:38:34]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:38:44]SAY: mouse/ : Squeek?
+[21:38:56]SAY: mouse/ : SQUEEK!
+[21:38:58]EMOTE: monkey (335)/ : <B>The monkey (335)</B> jumps!
+[21:39:04]EMOTE: monkey (675)/ : <B>The monkey (675)</B> jumps!
+[21:39:04]SAY: Clown/ : Honk!
+[21:39:20]SAY: mouse/ : Squeek!
+[21:39:22]EMOTE: kitten/ : <B>The kitten</B> shakes its head
+[21:39:28]SAY: mouse/ : Squeek!
+[21:39:30]SAY: mouse/ : Squeek!
+[21:39:40]EMOTE: Clown/ : <B>Clown</B> honks
+[21:39:50]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[21:39:54]SAY: Clown/ : HONK
+[21:40:00]EMOTE: monkey (335)/ : <B>The monkey (335)</B> jumps!
+[21:40:02]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:40:12]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[21:40:14]SAY: mouse/ : SQUEEK!
+[21:40:18]SAY: Clown/ : Welcome to clown planet!
+[21:40:20]SAY: mouse/ : SQUEEK!
+[21:40:26]SAY: Runtime/ : Esp!
+[21:40:29]ACCESS: Logout: Tfw[DC]/(Jessica Hawker)
+
+
+Starting up. 21:41.19
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[21:41:19]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[21:41:19]ADMIN: Loading jobban_rank
+[21:41:19]ADMIN: jobban_keylist was empty
+[21:41:19]ADMIN: Loading appearance_rank
+[21:41:19]ADMIN: appearance_keylist was empty
+[21:41:19]ADMIN: Updating jobbanfile!
+[21:41:19]ADMIN: Loading Banlist
+[21:41:25]GAME: TEMPL: Picking 1 template(s).
+[21:41:25]GAME: TEMPL: Picked template: gammavesselderelict.dmm
+[21:41:26]GAME: Finished placing templates after 00:00
+[21:41:44]ACCESS: Login: Tfw/(Tfw) from 127.0.0.1-1192090613 || BYOND v514
+[21:41:55]ACCESS: Logout: Tfw[DC]/(Tfw)
+
+
+Starting up. 21:43.02
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[21:43:02]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[21:43:02]ADMIN: Loading jobban_rank
+[21:43:02]ADMIN: jobban_keylist was empty
+[21:43:02]ADMIN: Loading appearance_rank
+[21:43:02]ADMIN: appearance_keylist was empty
+[21:43:02]ADMIN: Updating jobbanfile!
+[21:43:02]ADMIN: Loading Banlist
+[21:43:08]GAME: TEMPL: Picking 3 template(s).
+[21:43:08]GAME: TEMPL: Picked template: asteroid.dmm
+[21:43:08]GAME: TEMPL: Picked template: asteroid_5x5.dmm
+[21:43:08]GAME: TEMPL: Picked template: cloonshuttle.dmm
+[21:43:09]GAME: Finished placing templates after 00:00
+[21:43:57]ACCESS: Login: Tfw/(Tfw) from 127.0.0.1-1192090613 || BYOND v514
+[21:44:08]ADMIN: ADMINHELP: Tfw/(Tfw): help - heard by 1 non-AFK admins who have +BAN.
+[21:44:12]ADMIN: PM: Tfw/(Tfw)->Tfw/(Tfw): fuck you
+[21:44:23]ACCESS: Logout: Tfw[DC]/(Tfw)
+
+
+Starting up. 21:46.08
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[21:46:08]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[21:46:08]ADMIN: Loading jobban_rank
+[21:46:08]ADMIN: jobban_keylist was empty
+[21:46:08]ADMIN: Loading appearance_rank
+[21:46:08]ADMIN: appearance_keylist was empty
+[21:46:08]ADMIN: Updating jobbanfile!
+[21:46:08]ADMIN: Loading Banlist
+[21:46:16]GAME: TEMPL: Picking 1 template(s).
+[21:46:16]GAME: TEMPL: Picked template: asteroid_6x10.dmm
+[21:46:16]GAME: Finished placing templates after 00:00
+[21:51:18]ACCESS: Login: Tfw/(Tfw) from 127.0.0.1-1192090613 || BYOND v514
+[21:52:21]ADMIN: Tfw has started the game.
+[21:52:23]GAME: Tfw (ckey) has been selected as a traitor
+[21:52:23]ACCESS: Logout: *no key*/(Tfw)
+[21:52:23]ACCESS: Login: Tfw/(Lane Weeter) from 127.0.0.1-1192090613 || BYOND v514
+[21:52:25]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:52:30]SAY: grey baby slime (771)/ : Lonely...
+[21:53:01]EMOTE: kitten/ : <B>The kitten</B> shivers
+[21:53:03]EMOTE: monkey (522)/ : <B>The monkey (522)</B> jumps!
+[21:53:07]EMOTE: monkey (274)/ : <B>The monkey (274)</B> jumps!
+[21:53:07]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:53:15]EMOTE: monkey (704)/ : <B>The monkey (704)</B> jumps!
+[21:53:34]SAY: mouse/ : Squeek!
+[21:53:40]EMOTE: Ian/ : <B>Ian</B> shivers.
+[21:53:45]SAY: mouse/ : Squeek?
+[21:53:47]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:54:01]SAY: mouse/ : Squeek!
+[21:54:02]ACCESS: Logout: *no key*/(Lane Weeter)
+[21:54:02]ACCESS: Login: Tfw/(Lane Weeter) from 127.0.0.1-1192090613 || BYOND v514
+[21:54:03]SAY: mouse/ : Squeek!
+[21:54:23]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[21:54:25]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[21:54:29]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:54:36]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[21:54:36]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[21:54:37]ADMIN: Tfw/(Lane Weeter) stuffed tfw into Lane Weeter.
+[21:54:37]ACCESS: Logout: *no key*/(Lane Weeter)
+[21:54:37]ACCESS: Login: tfw/(Lane Weeter) from 127.0.0.1-1192090613 || BYOND v514
+[21:54:38]SAY: mouse/ : SQUEEK!
+[21:54:42]SAY: kitten/ : Purr!
+[21:54:53]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[21:54:55]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[21:54:55]EMOTE: kitten/ : <B>The kitten</B> mews
+[21:54:57]SAY: mouse/ : Squeek?
+[21:55:09]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:55:11]SAY: mouse/ : Squeek!
+[21:55:21]EMOTE: Poly/ : <B>Poly</B> looks in the Space Cigarettes packet's direction and takes flight.
+[21:55:25]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[21:55:31]EMOTE: monkey (274)/ : <B>The monkey (274)</B> jumps!
+[21:55:40]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[21:55:49]SAY: mouse/ : Squeek?
+[21:55:49]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:56:17]EMOTE: Poly/ : <B>Poly</B> looks in the Space Cigarettes packet's direction and takes flight.
+[21:56:19]SAY: mouse/ : Squeek!
+[21:56:31]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:56:35]SAY: mouse/ : Squeek!
+[21:56:38]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[21:57:03]EMOTE: kitten/ : <B>The kitten</B> meows
+[21:57:11]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:57:13]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[21:57:23]SAY: mouse/ : Squeek!
+[21:57:25]SAY: mouse/ : Squeek?
+[21:57:29]SAY: mouse/ : SQUEEK!
+[21:57:39]SAY: grey baby slime (821)/ : Blorble...
+[21:57:46]EMOTE: Ian/ : <B>Ian</B> dances around.
+[21:57:51]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:57:53]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[21:58:03]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[21:58:13]EMOTE: monkey (522)/ : <B>The monkey (522)</B> jumps!
+[21:58:17]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[21:58:19]SAY: grey baby slime (821)/ : Lonely...
+[21:58:23]EMOTE: monkey (966)/ : <B>The monkey (966)</B> jumps!
+[21:58:23]EMOTE: Pete/ : <B>Pete</B> brays.
+[21:58:25]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[21:58:29]SAY: mouse/ : Squeek!
+[21:58:31]EMOTE: Pete/ : <B>Pete</B> brays.
+[21:58:33]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:58:43]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[21:58:48]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[21:58:50]EMOTE: monkey (469)/ : <B>The monkey (469)</B> jumps!
+[21:59:01]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[21:59:11]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[21:59:13]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[21:59:21]EMOTE: Poly/ : <B>Poly</B> looks in the plasma coin's direction and takes flight.
+[21:59:21]EMOTE: Ian/ : <B>Ian</B> dances around.
+[21:59:25]EMOTE: Ian/ : <B>Ian</B> chases its tail.
+[21:59:29]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[21:59:35]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[21:59:39]SAY: mouse/ : SQUEEK!
+[22:00:05]SAY: mouse/ : Squeek?
+[22:00:09]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[22:00:17]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[22:00:25]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:00:27]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:00:29]SAY: mouse/ : SQUEEK!
+[22:00:33]SAY: mouse/ : SQUEEK!
+[22:00:35]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:00:45]SAY: Runtime/ : Meow!
+[22:00:51]EMOTE: kitten/ : <B>The kitten</B> shivers
+[22:01:05]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:01:15]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:01:39]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:01:45]EMOTE: monkey (469)/ : <B>The monkey (469)</B> jumps!
+[22:01:46]GAME: PA Control Computer increased to 1 by tfw/(Lane Weeter) in (72,62,1)
+[22:01:47]GAME: PA Control Computer increased to 2 by tfw/(Lane Weeter) in (72,62,1)
+[22:01:50]GAME: PA Control Computer turned ON by tfw/(Lane Weeter) in (72,62,1)
+[22:02:07]SAY: mouse/ : SQUEEK!
+[22:02:15]EMOTE: Poly/ : <B>Poly</B> looks in the Zippo lighter's direction and takes flight.
+[22:02:25]EMOTE: monkey (704)/ : <B>The monkey (704)</B> jumps!
+[22:02:25]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:02:27]SAY: mouse/ : Squeek?
+[22:03:05]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:03:11]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[22:03:11]SAY: mouse/ : SQUEEK!
+[22:03:15]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:03:27]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[22:03:33]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:03:39]SAY: kitten/ : HSSSSS
+[22:03:41]SAY: mouse/ : Squeek!
+[22:03:44]ACCESS: Logout: *no key*/(Lane Weeter)
+[22:03:44]ACCESS: Login: tfw/(Lane Weeter) from 127.0.0.1-1192090613 || BYOND v514
+[22:03:47]EMOTE: monkey (142)/ : <B>The monkey (142)</B> jumps!
+[22:03:47]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:03:51]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[22:03:55]ADMIN: tfw/(Lane Weeter) stuffed tfw into Lane Weeter.
+[22:03:55]ACCESS: Logout: *no key*/(Lane Weeter)
+[22:03:55]ACCESS: Login: tfw/(Lane Weeter) from 127.0.0.1-1192090613 || BYOND v514
+[22:03:57]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:04:17]EMOTE: Poly/ : <B>Poly</B> looks in the chief engineer's rubber stamp's direction and takes flight.
+[22:04:17]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[22:04:25]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:04:27]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:04:45]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[22:05:01]SAY: kitten/ : Meow!
+[22:05:07]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:05:13]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[22:05:33]SAY: mouse/ : SQUEEK!
+[22:05:35]SAY: kitten/ : Meow!
+[22:05:43]EMOTE: monkey (704)/ : <B>The monkey (704)</B> jumps!
+[22:06:05]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:06:07]SAY: mouse/ : Squeek!
+[22:06:09]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:06:11]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[22:06:13]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[22:06:21]EMOTE: monkey (704)/ : <B>The monkey (704)</B> jumps!
+[22:06:29]SAY: mouse/ : SQUEEK!
+[22:06:45]EMOTE: kitten/ : <B>The kitten</B> mews
+[22:06:59]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:07:05]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:07:09]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[22:07:09]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[22:07:13]SAY: grey baby slime (821)/ : Blop...
+[22:07:21]SAY: mouse/ : SQUEEK!
+[22:07:29]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[22:07:45]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:08:03]SAY: cow/ : Moo
+[22:08:07]EMOTE: Poly/ : <B>Poly</B> looks in the BreatheDeep cartridge's direction and takes flight.
+[22:08:17]SAY: mouse/ : SQUEEK!
+[22:08:19]EMOTE: monkey (409)/ : <B>The monkey (409)</B> jumps!
+[22:08:19]SAY: mouse/ : SQUEEK!
+[22:08:23]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[22:08:25]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:08:31]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:08:31]SAY: mouse/ : Squeek?
+[22:08:43]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[22:09:05]EMOTE: Poly/ : <B>Poly</B> looks in the Power-On DELUXE cartridge's direction and takes flight.
+[22:09:05]SAY: mouse/ : SQUEEK!
+[22:09:07]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:09:23]EMOTE: monkey (966)/ : <B>The monkey (966)</B> jumps!
+[22:09:27]SAY: cow/ : Moo
+[22:09:31]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:09:33]SAY: Poly/ : Check the singlo, you chucklefucks!
+[22:09:43]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[22:09:47]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:09:49]EMOTE: Runtime/ : <B>Runtime</B> mews
+[22:09:55]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:10:03]EMOTE: Poly/ : <B>Poly</B> looks in the flash's direction and takes flight.
+[22:10:07]GAME: PA Control Computer turned OFF by outside forces in (72,62,1)
+[22:10:11]GAME: Emitter lost power in (65,55,1)
+[22:10:11]GAME: Emitter lost power in (65,67,1)
+[22:10:12]GAME: Emitter deleted at (61,56,1)
+[22:10:12]GAME: Emitter deleted at (65,55,1)
+[22:10:14]SAY: mouse/ : Squeek?
+[22:10:18]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:10:20]GAME: Emitter deleted at (58,61,1)
+[22:10:22]GAME: Emitter deleted at (57,58,1)
+[22:10:23]ACCESS: Logout: *no key*/(Lane Weeter)
+[22:10:23]ACCESS: Login: tfw/(Lane Weeter) from 127.0.0.1-1192090613 || BYOND v514
+[22:10:24]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[22:10:28]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[22:10:30]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:10:36]ADMIN: tfw/(Lane Weeter) deleted the gravitational singularity at (66,60,1)
+[22:10:44]SAY: mouse/ : Squeek?
+[22:10:49]EMOTE: Pete/ : <B>Pete</B> glares around.
+[22:10:51]ADMIN: tfw/(Lane Weeter) stuffed tfw into Lane Weeter.
+[22:10:51]ACCESS: Logout: *no key*/(Lane Weeter)
+[22:10:51]ACCESS: Login: tfw/(Lane Weeter) from 127.0.0.1-1192090613 || BYOND v514
+[22:10:54]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[22:11:10]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:11:22]SAY: mouse/ : Squeek!
+[22:11:30]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[22:11:38]SAY: mouse/ : Squeek!
+[22:11:44]EMOTE: Ian/ : <B>Ian</B> dances around.
+[22:11:55]EMOTE: monkey (366)/ : <B>The monkey (366)</B> jumps!
+[22:12:02]SAY: mouse/ : SQUEEK!
+[22:12:06]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:12:12]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:12:20]SAY: kitten/ : Purr!
+[22:12:46]SAY: mouse/ : SQUEEK!
+[22:12:48]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:12:50]SAY: grey baby slime (821)/ : Blorble...
+[22:12:57]EMOTE: kitten/ : <B>The kitten</B> mews
+[22:13:08]SAY: grey baby slime (771)/ : Rawr...
+[22:13:16]SAY: mouse/ : SQUEEK!
+[22:13:22]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:13:31]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[22:13:36]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:13:36]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:13:42]SAY: mouse/ : SQUEEK!
+[22:14:01]SAY: Daisy/ : HSSSSS
+[22:14:14]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:14:17]SAY: mouse/ : Squeek?
+[22:14:17]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:14:24]EMOTE: monkey (522)/ : <B>The monkey (522)</B> jumps!
+[22:14:46]SAY: kitten/ : Purr!
+[22:14:52]EMOTE: monkey (522)/ : <B>The monkey (522)</B> jumps!
+[22:14:52]SAY: cow/ : Moo?
+[22:14:54]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:14:54]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:14:58]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:15:02]SAY: fuzz/ : Meow!
+[22:15:14]EMOTE: monkey (469)/ : <B>The monkey (469)</B> jumps!
+[22:15:16]SAY: mouse/ : Squeek!
+[22:15:32]SAY: Poly/ : OH GOD ITS FREE CALL THE SHUTTLE
+[22:15:38]SAY: mouse/ : Squeek!
+[22:15:43]SAY: mouse/ : Squeek!
+[22:15:52]SAY: mouse/ : SQUEEK!
+[22:15:52]EMOTE: fuzz/ : <B>The fuzz</B> mews
+[22:15:54]EMOTE: Ian/ : <B>Ian</B> pants.
+[22:16:08]SAY: mouse/ : SQUEEK!
+[22:16:10]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:16:36]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:16:36]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:16:47]EMOTE: Pun Pun/ : <B>Pun Pun</B> jumps!
+[22:16:49]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:16:56]SAY: mouse/ : SQUEEK!
+[22:16:58]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[22:17:02]ACCESS: Logout: tfw[DC]/(Lane Weeter)
