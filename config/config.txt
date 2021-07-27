@@ -26,6 +26,9 @@ MENTOR_LEGACY_SYSTEM
 ## you have noone older than 0 days, since noone has been logged yet. Only turn this on once you have had the database up for 30 days.
 #USE_AGE_RESTRICTION_FOR_JOBS
 
+## Put on byond hub: Uncomment this to put your server on the byond hub.
+#HUB
+
 ## log OOC channel
 LOG_OOC
 
@@ -99,7 +102,7 @@ NORESPAWN
 # DONT_DEL_NEWMOB
 
 ## set a hosted by name for unix platforms
-HOSTEDBY Krillbill
+HOSTEDBY tfw
 
 ## Set to jobban "Guest-" accounts from Captain, HoS, HoP, CE, RD, CMO, Warden, Security, Detective, and AI positions.
 ## Set to 1 to jobban them from those positions, set to 0 to allow them.
