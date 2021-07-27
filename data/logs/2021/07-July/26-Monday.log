@@ -40,3 +40,214 @@ Database connection failed. Reverting to the legacy ban system.
 [12:33:23]GAME: TEMPL: Picking 1 template(s).
 [12:33:23]GAME: TEMPL: Picked template: asteroid_6x10.dmm
 [12:33:23]GAME: Finished placing templates after 00:00
+
+
+Starting up. 22:22.56
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[22:22:56]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[22:22:56]ADMIN: Loading jobban_rank
+[22:22:56]ADMIN: jobban_keylist was empty
+[22:22:56]ADMIN: Loading appearance_rank
+[22:22:56]ADMIN: appearance_keylist was empty
+[22:22:56]ADMIN: Updating jobbanfile!
+[22:22:56]ADMIN: Loading Banlist
+[22:23:04]GAME: TEMPL: Picking 2 template(s).
+[22:23:04]GAME: TEMPL: Picked template: asteroid.dmm
+[22:23:04]GAME: TEMPL: Picked template: spacewatchoutpost.dmm
+[22:23:04]GAME: Finished placing templates after 00:00
+[22:23:19]ACCESS: Login: Tfw/(Tfw) from 127.0.0.1-1192090613 || BYOND v514
+[22:23:44]ACCESS: Logout: Tfw[DC]/(Tfw)
+
+
+Starting up. 22:24.23
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[22:24:23]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[22:24:23]ADMIN: Loading jobban_rank
+[22:24:23]ADMIN: jobban_keylist was empty
+[22:24:23]ADMIN: Loading appearance_rank
+[22:24:23]ADMIN: appearance_keylist was empty
+[22:24:23]ADMIN: Updating jobbanfile!
+[22:24:23]ADMIN: Loading Banlist
+[22:24:31]GAME: TEMPL: Picking 1 template(s).
+[22:24:31]GAME: TEMPL: Picked template: abandoned_abductor_ship_7x7.dmm
+[22:24:31]GAME: Finished placing templates after 00:00
+[22:24:41]ACCESS: Login: Tfw/(Tfw) from 127.0.0.1-1192090613 || BYOND v514
+[22:25:38]ADMIN: Tfw has started the game.
+[22:25:41]GAME: Tfw (ckey) has been selected as a traitor
+[22:25:41]ACCESS: Logout: *no key*/(Tfw)
+[22:25:41]ACCESS: Login: Tfw/(River Mingle) from 127.0.0.1-1192090613 || BYOND v514
+[22:25:42]EMOTE: monkey (535)/ : <B>The monkey (535)</B> jumps!
+[22:25:42]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:25:48]EMOTE: Poly/ : <B>Poly</B> turns and flies towards the pen.
+[22:25:48]EMOTE: cow/ : <B>The cow</B> brays.
+[22:25:48]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[22:25:48]ADMIN: <a href='?priv_msg=tfw'>Tfw</a>/(River Mingle) has shown the player panel of River Mingle.
+[22:25:54]ADMIN: Tfw/(River Mingle) has changeling'ed River Mingle.
+[22:26:05]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:26:11]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:26:24]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:26:28]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:26:32]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:26:36]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:26:45]EMOTE: Ian/ : <B>Ian</B> dances around.
+[22:26:55]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:26:57]SAY: mouse/ : Squeek?
+[22:27:01]EMOTE: Poly/ : <B>Poly</B> looks in the Power-ON cartridge's direction and takes flight.
+[22:27:01]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[22:27:09]SAY: mouse/ : Squeek!
+[22:27:13]SAY: mouse/ : SQUEEK!
+[22:27:13]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:27:28]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:27:38]SAY: mouse/ : Squeek!
+[22:27:50]ACCESS: Logout: Tfw[DC]/(River Mingle)
+
+
+Starting up. 22:57.46
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode king of the disk (king_disk) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode vampire (vampire) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'mentor_legacy_system'
+Unknown setting in configuration: '//comment'
+Unknown setting in configuration: '//uncomment'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Failed to connect to database in load_mentors().
+[22:57:46]ADMIN: Loading Banlistjob
+Database connection failed. Reverting to the legacy ban system.
+[22:57:46]ADMIN: Loading jobban_rank
+[22:57:46]ADMIN: jobban_keylist was empty
+[22:57:46]ADMIN: Loading appearance_rank
+[22:57:46]ADMIN: appearance_keylist was empty
+[22:57:46]ADMIN: Updating jobbanfile!
+[22:57:46]ADMIN: Loading Banlist
+[22:57:53]GAME: TEMPL: Picking 3 template(s).
+[22:57:53]GAME: TEMPL: Picked template: asteroid_16x17.dmm
+[22:57:53]GAME: TEMPL: Picked template: podcrash_9x9.dmm
+[22:57:53]GAME: TEMPL: Picked template: asteroid_6x10.dmm
+[22:57:53]GAME: Finished placing templates after 00:00
+[22:58:06]ACCESS: Login: Tfw/(Tfw) from 127.0.0.1-1192090613 || BYOND v514
+[22:58:27]ADMIN: Tfw has started the game.
+[22:58:30]GAME: Tfw (ckey) has been selected as a traitor
+[22:58:30]ACCESS: Logout: *no key*/(Tfw)
+[22:58:30]ACCESS: Login: Tfw/(Luke Spock) from 127.0.0.1-1192090613 || BYOND v514
+[22:58:41]GAME: SQL ERROR obtaining reason from watch table. Error : [not connected]
+
+[22:58:41]ADMIN: <a href='?priv_msg=tfw'>Tfw</a>/(Luke Spock) has shown the player panel of Luke Spock.
+[22:58:45]ADMIN: Tfw/(Luke Spock) has changeling'ed Luke Spock.
+[22:58:48]EMOTE: monkey (529)/ : <B>The monkey (529)</B> jumps!
+[22:58:52]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:58:54]SAY: mouse/ : Squeek?
+[22:59:03]SAY: mouse/ : SQUEEK!
+[22:59:13]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[22:59:13]SAY: fuzz/ : Esp!
+[22:59:30]EMOTE: Ian/ : <B>Ian</B> woofs!
+[22:59:32]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[22:59:34]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[22:59:42]EMOTE: Poly/ : <B>Poly</B> looks in the pen's direction and takes flight.
+[22:59:44]EMOTE: monkey (794)/ : <B>The monkey (794)</B> jumps!
+[23:00:01]EMOTE: Runtime/ : <B>Runtime</B> shakes its head
+[23:00:13]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[23:00:30]SAY: Daisy/ : Esp!
+[23:00:32]SAY: mouse/ : Squeek?
+[23:00:36]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[23:00:38]EMOTE: Poly/ : <B>Poly</B> looks in the Space Cigarettes packet's direction and takes flight.
+[23:00:54]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[23:00:56]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[23:01:07]SAY: mouse/ : SQUEEK!
+[23:01:23]EMOTE: monkey (776)/ : <B>The monkey (776)</B> jumps!
+[23:01:27]SAY: mouse/ : Squeek!
+[23:01:32]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[23:01:34]EMOTE: kitten/ : <B>The kitten</B> bats the toy mouse around with its paw!
+[23:01:38]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[23:01:44]EMOTE: monkey (529)/ : <B>The monkey (529)</B> jumps!
+[23:01:45]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[23:02:04]EMOTE: Poly/ : <B>Poly</B> looks in the Space Cigarettes packet's direction and takes flight.
+[23:02:05]EMOTE: cow/ : <B>The cow</B> shakes its head.
+[23:02:07]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[23:02:15]EMOTE: fuzz/ : <B>The fuzz</B> bats the toy mouse around with its paw!
+[23:02:42]EMOTE: kitten/ : <B>The kitten</B> shivers
+[23:02:46]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[23:02:52]EMOTE: monkey (51)/ : <B>The monkey (51)</B> jumps!
+[23:03:00]EMOTE: Poly/ : <B>Poly</B> looks in the monitor decryption key's direction and takes flight.
+[23:03:00]EMOTE: monkey (794)/ : <B>The monkey (794)</B> jumps!
+[23:03:09]EMOTE: Ian/ : <B>Ian</B> chases its tail!
+[23:03:11]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[23:03:13]EMOTE: fuzz/ : <B>The fuzz</B> mews
+[23:03:15]SAY: Pete/ : Eh?
+[23:03:20]ACCESS: Logout: Tfw[DC]/(Luke Spock)

@@ -1,10 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1531172418
-DIR: _maps _maps\map_files _maps\map_files\TgStation icons icons\mecha icons\mob icons\obj icons\obj\doors icons\obj\food icons\obj\guns 
+LAST_COMPILE_TIME: 1627358214
+DIR: _maps _maps\map_files _maps\map_files\TgStation code code\__HELPERS code\game code\game\gamemodes code\game\gamemodes\changeling code\game\gamemodes\changeling\powers code\modules code\modules\admin code\modules\admin\verbs icons icons\mecha icons\mob 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 510.1345
+LAST_COMPILE_VERSION: 514.1557
+WINDOW: code\world.dm
+FILE: code\world.dm
 */
 // END_INTERNALS
